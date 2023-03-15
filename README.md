@@ -16,5 +16,5 @@ Next setup Prisma - ```yarn prisma generate``` and then ```yarn prisma db push``
 
 ### Frontend
 
-## ReactJS
+#### ReactJS
 In frontend directory run ```yarn```, meanwhile get your Mapbox token from [mapbox.com](mapbox.com). You need [Directions API](https://docs.mapbox.com/help/glossary/directions-api/) and  [Temporary Geocoding API](https://docs.mapbox.com/api/search/geocoding/).
