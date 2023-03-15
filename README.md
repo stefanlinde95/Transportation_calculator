@@ -20,6 +20,6 @@ Next setup Prisma - ```yarn prisma generate``` and then ```yarn prisma db push``
 In frontend directory run ```yarn```, meanwhile get your Mapbox token from [mapbox.com](mapbox.com). You need [Directions API](https://docs.mapbox.com/help/glossary/directions-api/) and  [Temporary Geocoding API](https://docs.mapbox.com/api/search/geocoding/).
 
 ## Run locally
-1.Start Planetscale proxy ```pscale connect YOUR_TABLE_NAME```
-2.Run ```yarn run dev``` in backend directory
-3.Run ```yarn run start``` in frondend directory
+1. Start Planetscale proxy ```pscale connect YOUR_TABLE_NAME```
+2. Run ```yarn run dev``` in backend directory
+3. Run ```yarn run start``` in frondend directory
