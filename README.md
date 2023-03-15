@@ -2,7 +2,7 @@
 
 This is really simple transportation calculator made as 2-3 fun project made with ReactJS, MUI, NodeJS, Prisma and Planetscale.
 
-## Local setup
+# Local setup
 
 ## Backend
 
