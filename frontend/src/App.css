@@ -1,0 +1,46 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+nav a {
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #585858;
+    font-weight: 500;
+    font-size: 1.05rem;
+}
+nav a:hover {
+    color: #000;
+    transition: 0.5s;
+}
+.block {
+    display: block;
+}
+.flex {
+    display: flex;
+}
+.left-col {
+    border-right: 1px solid #ccc;
+}
+.options_title {
+    color: #585858;
+    font-weight: 500;
+    font-size: 1.05rem;
+}
+.left-col, .right-col {
+    width: 50%;
+    padding: 20px;
+    margin: 15px 0px;
+}
+#main-nav {
+    background-color: #f0f0f0;
+}
+#quantity {
+    margin:auto;
+}
+.MuiAccordionSummary-root {
+  background-color: #f0f0f0!important;
+}
