@@ -1,0 +1,14 @@
+{
+  "name": "transportation_calculator",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodejs-16_x": "16.13.1",
+    "npm": "8.3.0"
+  },
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",
+    "start": "cd backend && npm start"
+  },
+  "devDependencies": {},
+  "env": {}
+}

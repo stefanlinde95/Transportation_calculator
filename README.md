@@ -1,6 +1,6 @@
 ﻿# Transportation calculator
 
-This is really simple transportation calculator made as 2-3 fun project made with ReactJS, MUI, NodeJS, Prisma and Planetscale.
+This is really simple transportation calculator made in 2-3 days as a fun project with ReactJS, MUI, NodeJS, Prisma and Planetscale.
 
 ## Local setup
 ### Backend
